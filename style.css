@@ -78,12 +78,16 @@
     transition: all 0.2s ease-in-out;
   }
   .time-display {
-    color: white;
     position: absolute;
+    color: white;
     font-size: 50px;
     bottom: 10%;
   }
   
+  .player-container img {
+    padding-top: 50%;
+  }
+
   video {
     position: fixed;
     top: 0%;
