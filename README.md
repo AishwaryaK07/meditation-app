@@ -1,5 +1,7 @@
 Made a simple meditation app using Javascript, HTML & CSS.
 
+Visit site: https://meditation-app-8408d9.netlify.app/ 
+
 The following are the screenshots of the project
 ![image](https://user-images.githubusercontent.com/47115164/87395678-5e58c700-c5cf-11ea-9c62-0035849f2c8e.png)
 
