@@ -47,6 +47,10 @@
   .sound-picker button:nth-child(2) {
     background: #a14f49;
   }
+  .sound-picker button:nth-child(3) {
+    background: #2da346;
+  }
+  
   .sound-picker button img {
     height: 100%;
   }
@@ -84,8 +88,8 @@
     bottom: 10%;
   }
   
-  .player-container img {
-    padding-top: 50%;
+  .play {
+    position: absolute;
   }
 
   video {
@@ -95,3 +99,9 @@
     width: 100%;
     z-index: -10;
   }
+
+  .replay {
+    position: absolute;
+    height: 30px;
+    bottom: 30%;
+ }
